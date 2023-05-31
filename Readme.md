@@ -35,6 +35,10 @@ Program ini dimulai dengan landing page, kemudian ke home untuk melihat data res
 
 
 
+https://github.com/najmharani/LP9DPBO2023C1/assets/90398797/d93092f5-da22-452f-a934-59a265ad440a
+
+
+
   <img
   src="ss.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
